@@ -1,4 +1,21 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Maite Vázquez
+
+🎓 Estudiante de programación en la E.E.S.T. N°1  
+📚 Siempre aprendiendo
+
+---
+
+### 🛠️ Tecnologías que manejo:
+
+#### 💻 Lenguajes:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php)](https://skillicons.dev)
+
+#### 🗄️ Bases de datos:
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+#### 🧰 Entornos y herramientas:
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
+
 
 <!--
 **MaiteVazquez8/MaiteVazquez8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
