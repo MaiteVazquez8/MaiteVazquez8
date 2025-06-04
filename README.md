@@ -10,9 +10,6 @@
 #### 💻 Lenguajes:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php)](https://skillicons.dev)
 
-#### 🗄️ Bases de datos:
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
 #### 🧰 Entornos y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
