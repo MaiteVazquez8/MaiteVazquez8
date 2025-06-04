@@ -6,18 +6,23 @@ Maite Vázquez
 
 🛠 Tecnologías que manejo:
 
-💻 **Lenguajes**
+💻 Lenguajes
 
 🖥 Frontend
+
 [![My Skills](https://skillicons.dev/icons?i=js,css,html)](https://skillicons.dev)
 
 🖥️ Backend
+
 [![My Skills](https://skillicons.dev/icons?i=java,php,arduino,cs)](https://skillicons.dev)
 
 🗄️ Bases de Datos
+
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-🧰 **Herramientas y Entornos**
+
+🧰 Herramientas y Entornos
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,bootstrap)](https://skillicons.dev)
 <!--
 **MaiteVazquez8/MaiteVazquez8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
