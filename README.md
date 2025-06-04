@@ -1,12 +1,10 @@
-Maite Vázquez
-
 👋 Hola, soy **Maite Vázquez**, estudiante de Programación en la **E.E.S.T. N°1**.
 
 ---
 
 🛠 Tecnologías que manejo:
 
-💻 Lenguajes
+💻 **Lenguajes**
 
 🖥 Frontend
 
@@ -21,7 +19,8 @@ Maite Vázquez
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
-🧰 Herramientas y Entornos
+
+🧰 **Herramientas y Entornos**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,bootstrap)](https://skillicons.dev)
 <!--
