@@ -8,9 +8,9 @@
 ### 🛠️ Tecnologías que manejo:
 
 #### 💻 Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,arduino,sql)](https://skillicons.dev)
 
-#### 🧰 Entornos y herramientas:
+#### 🧰 Plataformas de desarrollo IDE:
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
 
