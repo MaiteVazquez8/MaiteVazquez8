@@ -8,7 +8,7 @@
 
 🖥 Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,react,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,react)](https://skillicons.dev)
 
 🖥️ Backend
 
