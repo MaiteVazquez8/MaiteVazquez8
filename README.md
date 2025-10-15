@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)  
 
 🧰 **Herramientas y Entornos**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,NPM,NODEMON,node.js,figma,bootstrap)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,npm,nodemon,nodejs,figma,bootstrap)](https://skillicons.dev)  
 
 📱 **Redes y Contacto**  
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:maite.lu.vazquez08@gmail.com)[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mai.vazquez_)  
