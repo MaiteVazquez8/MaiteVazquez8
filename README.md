@@ -1,39 +1,30 @@
-👋 Hola, soy **Maite Vázquez**, estudiante de Programación en la **E.E.S.T. N°1**.
+👋 Hola, soy **Maite Vázquez**, estudiante de Programación en la **E.E.S.T. N°1**.  
 
 ---
 
-🛠 Tecnologías que manejo:
+🛠 **Tecnologías que manejo:**  
 
-💻 **Lenguajes**
+💻 **Lenguajes**  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,cs,arduino)](https://skillicons.dev)  
 
-🖥 Frontend
+🖥️ **Frontend**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma)](https://skillicons.dev)  
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,react)](https://skillicons.dev)
+🖥️ **Backend**  
+[![My Skills](https://skillicons.dev/icons?i=node,express,php,java,cs,arduino)](https://skillicons.dev)  
 
-🖥️ Backend
+🗄️ **Bases de Datos**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,sqlite3)](https://skillicons.dev)  
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,arduino,cs)](https://skillicons.dev)
+🧰 **Herramientas y Entornos**  
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,dotenv,nodemon,axios)](https://skillicons.dev)  
 
-🗄️ Bases de Datos
+📱 **Redes y Contacto**  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:maite.lu.vazquez08@gmail.com)  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mai.vazquez_)  
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+---
 
-
-
-🧰 **Herramientas y Entornos**
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git,bootstrap)](https://skillicons.dev)
-<!--
-**MaiteVazquez8/MaiteVazquez8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Extras:**  
+- Trabajo con Node.js instalando paquetes como **express, cors, nodemon, axios, sqlite3, dotenv**.  
+- Uso de **npm create vite@latest** para crear proyectos modernos.  
