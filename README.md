@@ -5,7 +5,7 @@
 🛠 **Tecnologías que manejo:**  
 
 💻 **Lenguajes**  
-[![My Skills](https://skillicons.dev/icons?i=java,php,cs,arduino)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,php,cs,arduino,cpp)](https://skillicons.dev)  
 
 🖥️ **Frontend**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)  
