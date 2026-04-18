@@ -13,10 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiteVazquez8&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaiteVazquez8&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🛠 Stack Tecnológico  
