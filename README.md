@@ -1,77 +1,95 @@
-# 👋 Hola, soy Maite Vázquez  
+<h1 align="center">Hola 👋, soy Maite Vázquez</h1>
 
-💻 Estudiante de Programación en **E.E.S.T. N°1**  
-🚀 Desarrolladora en formación enfocada en **backend, bases de datos y desarrollo web**  
-🎯 Buscando crecer profesionalmente y construir soluciones reales  
-
----
-
-## 📊 Estadísticas  
+<h3 align="center">
+Desarrolladora Backend en formación • Bases de datos • APIs • Desarrollo Web
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaiteVazquez8&show_icons=true&theme=tokyonight" height="160"/>
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaiteVazquez8&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A5AF8&center=true&vCenter=true&width=700&lines=Backend+Developer+in+progress;Apasionada+por+la+tecnolog%C3%ADa+y+las+APIs;Construyendo+proyectos+reales+y+escalables" />
 </p>
 
 ---
 
-## 🛠 Stack Tecnológico  
+## 🚀 Sobre mí
 
-### 💻 Lenguajes  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+💻 Estudiante de Programación en **E.E.S.T. N°1**  
+⚙️ Enfocada en backend, APIs y bases de datos  
+📚 Aprendiendo constantemente nuevas tecnologías  
+🎯 Interesada en crear soluciones reales y escalables  
 
 ---
 
-### 🌐 Desarrollo Web  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaiteVazquez8&label=Visitas&color=7A5AF8&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/MaiteVazquez8?style=for-the-badge&color=7A5AF8" />
+  
+  <img src="https://img.shields.io/github/stars/MaiteVazquez8?style=for-the-badge&color=7A5AF8" />
+</p>
 
 ---
 
-### ⚙️ Backend  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+## 🛠 Tecnologías
+
+### Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,php,cs,cpp,js" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Bases de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,npm" />
+</p>
 
 ---
 
-### 🗄️ Bases de Datos  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## 📌 Proyectos Destacados
+
+🔹 Sistema de facturación y gestión  
+🔹 Integración de WhatsApp con backend  
+🔹 APIs REST con Node.js y Express  
+🔹 Aplicaciones con bases de datos MySQL  
 
 ---
 
-### 🧰 Herramientas  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🌱 Actualmente
+
+- Aprendiendo arquitectura backend
+- Mejorando prácticas con SQL
+- Trabajando en proyectos personales
+- Explorando integración de APIs
 
 ---
 
-## 📈 Actualmente  
+## 📫 Contacto
 
-- 🔍 Aprendiendo más sobre backend y APIs  
-- 🛠 Mejorando mis prácticas con bases de datos
-- 🚀 Trabajando en proyectos personales  
+📧 **Email:** maite.lu.vazquez08@gmail.com
 
----
-
-## 🤝 Contacto  
-
-📧 **Email:** maite.lu.vazquez08@gmail.com  
+<p align="left">
+  <a href="https://github.com/MaiteVazquez8">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
-## 💡 Filosofía  
-
-> "Aprender haciendo, mejorar constantemente y construir cosas que realmente funcionen."
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5AF8&height=120&section=footer"/>
+</p>
