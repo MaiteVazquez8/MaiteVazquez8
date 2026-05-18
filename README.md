@@ -89,8 +89,6 @@ Desarrolladora Backend en formación • Bases de datos • APIs • Desarrollo 
 
 📧 **Email:** maite.lu.vazquez08@gmail.com
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5AF8&height=120&section=footer"/>
 </p>
