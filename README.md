@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5AF8&height=120&section=header"/>
+</p>
+
 <h1 align="center">Hola 👋, soy Maite Vázquez</h1>
 
 <h3 align="center">
 Desarrolladora Backend en formación • Bases de datos • APIs • Desarrollo Web
 </h3>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A5AF8&center=true&vCenter=true&width=700&lines=Desarrollando+proyectos+y+aprendiendo+en+el+proceso;Backend%2C+bases+de+datos+y+desarrollo+web;Siempre+buscando+mejorar+y+crear+cosas+útiles" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7A5AF8&center=true&vCenter=true&width=750&lines=Desarrollando+proyectos+y+aprendiendo+en+el+proceso;Backend%2C+bases+de+datos+y+desarrollo+web;Siempre+buscando+mejorar+y+crear+cosas+útiles" />
+</p>
 
 ---
 
@@ -13,7 +19,7 @@ Desarrolladora Backend en formación • Bases de datos • APIs • Desarrollo 
 💻 Estudiante de Programación en **E.E.S.T. N°1**  
 ⚙️ Enfocada en backend, APIs y bases de datos  
 📚 Aprendiendo constantemente nuevas tecnologías  
-🎯 Interesada en crear soluciones reales y escalables  
+🎯 Interesada en crear soluciones reales y funcionales  
 
 ---
 
@@ -83,6 +89,7 @@ Desarrolladora Backend en formación • Bases de datos • APIs • Desarrollo 
 
 📧 **Email:** maite.lu.vazquez08@gmail.com
 
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A5AF8&height=120&section=footer"/>
